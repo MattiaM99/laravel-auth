@@ -26,3 +26,7 @@
     </div>
 </div>
 @endsection
+
+@section('title')
+    | Elenco Posts
+@endsection
